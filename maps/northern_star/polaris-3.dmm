@@ -171,7 +171,7 @@
 "dG" = (/turf/simulated/wall/r_wall,/area/tcommsat/chamber)
 "dH" = (/obj/machinery/vending/cola,/turf/simulated/floor/tiled,/area/tcommsat/computer)
 "dI" = (/obj/machinery/vending/snack,/turf/simulated/floor/tiled,/area/tcommsat/computer)
-"dJ" = (/obj/item/weapon/cigbutt,/obj/machinery/light,/turf/simulated/floor/tiled,/area/tcommsat/computer)
+"dJ" = (/obj/item/trash/cigbutt,/obj/machinery/light,/turf/simulated/floor/tiled,/area/tcommsat/computer)
 "dK" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply,/turf/simulated/floor/tiled,/area/tcommsat/computer)
 "dL" = (/obj/machinery/disposal,/obj/structure/disposalpipe/trunk{dir = 4},/turf/simulated/floor/tiled,/area/tcommsat/computer)
 "dM" = (/obj/structure/bed/chair{dir = 1},/turf/simulated/floor/tiled,/area/tcommsat/computer)
